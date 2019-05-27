@@ -8,7 +8,7 @@ Generate Automatic Roman Number From 1 to 5000
 ## Client-Side - Vue & JQuery
 
 
-### Screenhoot
+### Screenshoot
 
 1. <img src="asset/screenschoot-1.png" alt="">
 2. <img src="asset/screenschoot-2.png" alt="">
